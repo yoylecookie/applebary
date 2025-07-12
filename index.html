@@ -39,7 +39,7 @@
   <script>
     async function loadBooks() {
       try {
-        const res = await fetch('https://cloud-byteosc.pages.dev/channels/applebary/books.txt');
+        const res = await fetch('https://yoylecookie.github.io/applebary/books.txt');
         const text = await res.text();
         const items = text.split('</>').map(raw => raw.trim()).filter(Boolean);
 
