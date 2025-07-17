@@ -7,9 +7,7 @@
 </>
 
 <Vampirina: A Few New Friends>
-.is not available
-.dateCheckedOut 07-11-2025
-.checkedOutBy Adv
+.is available
 </>
 
 <Mickey: A nice surprise>
@@ -45,9 +43,7 @@
 </>
 
 <Pete The Cat: Play Ball>
-.is not available
-.dateCheckedOut 07-11-2025
-.checkedOutBy Adv
+.is available
 </>
 
 <Pete The Kitty: Goes to The Doctor>
@@ -77,19 +73,17 @@
 </>
 
 <Go Dance>
-.is available
+.is not available
+.dateCheckedOut 07-16-2025
+.checkedOutBy Bind
 </>
 
 <Junior Great Books>
-.is not available
-.dateCheckedOut ER-NO-404!
-.checkedOutBy Ashw
+.is available
 </>
 
 <Penguins!>
-.is not available
-.dateCheckedOut 06-20-2025
-.checkedOutBy Sush
+.is available
 </>
 
 <Spiderman: Tie your shoes>
@@ -105,7 +99,9 @@
 </>
 
 <Boots>
-.is available
+.is not available
+.dateCheckedOut 07-16-2025
+.checkedOutBy Bind
 </>
 
 <My Best Friend is a Ghost>
@@ -115,15 +111,11 @@
 </>
 
 <Governer's Mansion>
-.is not available
-.dateCheckedOut 06-23-2025
-.checkedOutBy Shr
+.is available
 </>
 
 <A Tune for My mother>
-.is not available
-.dateCheckedOut 06-20-2025
-.checkedOutBy Sush
+.is available
 </>
 
 <Diary Of a Whimpy Kid #18>
@@ -139,7 +131,9 @@
 </>
 
 <Proud Mouse>
-.is available
+.is not available
+.dateCheckedOut 07-14-2025
+.checkedOutBy Nirv
 </>
 
 <Watch Out Below>
@@ -153,5 +147,23 @@
 </>
 
 <Sophia the Golden Unicorn>
+.is not available
+.dateCheckedOut 07-14-2025
+.checkedOutBy Nirv
+</>
+
+<Edward Tulane>
+.is available
+</>
+
+<A Little Princess>
+.is available
+</>
+
+<The 1000 Years Old Boy>
+.is available
+</>
+
+<The Big Box>
 .is available
 </>
